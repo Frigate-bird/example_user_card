@@ -28,7 +28,7 @@
     background-color: var(--secondary-color);
     color: var(--primary-color);
     position: relative;
-    z-index: -1;
+    /* z-index: -1; */
     /* z-index: 0; */
 }
 
